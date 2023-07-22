@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Trisha Banerjee! ✨<br><br>I'm passionate about AI and ML<br><br>
+Hi, I'm Trisha Banerjee! ✨<br><br>I'm a final year Computer Science student at VIT. I'm passionate about AI and ML <br><br>
 
 
 ## 🌐 Socials:
